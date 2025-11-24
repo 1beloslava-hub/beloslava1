@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head`>
+<meta chrset="UTF-8">
+<meta http-equiv="X-UA-Compatible" cotent="IE=adge">
+<meta name="viewpory" content="width=device-width", initial-scale=1.0">
+<title>moi pervi sait</title>
+</head>
+<body>
+<h1>Это заголовок 1 уровня</h1>
+<h2>Это заголовок 2 уровня</h2>
+<h3>Это заголовок 3 уровня</h3>
+<h4>Это заголовок 4 уровня</h4>
+<h5>Это заголовок 5 уровня</h5>
+<h6>Это заголовок 6 уровня</h6>
+</body>
+</html>
